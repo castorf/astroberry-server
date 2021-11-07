@@ -158,7 +158,7 @@ A: Wireless connection is predefined for you. Just edit it and change network na
 
 **Q: I cannot login to astroberry HotSpot**
 
-A: Note that default keyboard layout used in the image is [QUERTY](https://en.wikipedia.org/wiki/QWERTY). If you use other keyboard layout the password you type in might be different than you think e.g. for French keyboard it may become astroberrz (instead astroberry). Change your keyboard layout using raspi-config or gui_rc to aligh system configuration and your keyboard.
+A: Note that default keyboard layout used in the image is [QWERTY](https://en.wikipedia.org/wiki/QWERTY). If you use other keyboard layout the password you type in might be different than you think e.g. for French keyboard it may become astroberrz (instead astroberry). Change your keyboard layout using raspi-config or gui_rc to aligh system configuration and your keyboard.
 
 **Q: How can I change my regional settings or add support for my language?**
 
